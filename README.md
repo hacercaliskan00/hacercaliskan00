@@ -1,4 +1,5 @@
-![MasterHead](https://learn.temporal.io/assets/images/banner_python-0d345d125b6892840c54f7e1460c8a5a.png)
+![MasterHead](https://i.imgur.com/N1EfyhW.png)
+
 
 <h1 align="center">Hi 👋, I'm Hacer Çalışkan</h1>
 <h3 align="center">Frontend & Python Developer | Enthusiast in Artificial Intelligence Projects</h3>
