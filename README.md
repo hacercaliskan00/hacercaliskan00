@@ -1,4 +1,4 @@
-![MasterHead](https://i.imgur.com/N1EfyhW.png)
+![MasterHead](https://raw.githubusercontent.com/hacercaliskan00/hacercaliskan00/main/images/banner.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Hacer Çalışkan</h1>
