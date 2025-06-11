@@ -50,7 +50,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hacercaliskan00&" alt="GitHub Streak" /></p>
 
 
-<img src="https://raw.githubusercontent.com/hacercaliskan00/hacercaliskan00/main/images/bocchi-punch.gif" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hacercaliskan00/hacercaliskan00/main/images/bocchi-punch.gif" width="50%" />
+</p>
 
 <div align="center" style="background-color:#ffb6c1; padding:15px; border-radius:10px; color:#000; font-weight:bold; font-size:16px;">
 🧠 "Why isn't the code working?" → 🖐️ "Fine, I’ll just go <i>inside</i> the screen!"
